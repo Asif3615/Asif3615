@@ -46,7 +46,9 @@ I am a Data and Business Analyst <img src="https://media.giphy.com/media/WUlplcM
   <img src="https://img.shields.io/badge/Azure-00ADD8?style=for-the-badge&logo=Azure&logoColor=white" />
   <img src="https://img.shields.io/badge/Hadoop-CC342D?style=for-the-badge&logo=Hadoop&logoColor=white" />
   <img src="https://img.shields.io/badge/Web-Scrapping-5E5C5C?style=for-the-badge&logo=Web-Scrapping&logoColor=white" />
-   <img src="https://img.shields.io/badge/Power-BI-3776AB?style=for-the-badge&logo=Power-BI&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power-BI-3776AB?style=for-the-badge&logo=Power-BI&logoColor=white" />
+  <img src="https://img.shields.io/badge/Agile-Methodology-3776AB?style=for-the-badge&logo=Agile-Methodology&logoColor=white" />
+  <img src="https://img.shields.io/badge/JIRA-CC342D?style=for-the-badge&logo=JIRA&logoColor=white" />
 </p>
 
 <h1>My work experience</h1>
@@ -85,13 +87,14 @@ I am a Data and Business Analyst <img src="https://media.giphy.com/media/WUlplcM
 </p>
 <h1>Tools</h1>
 <p>
-  <img src="https://img.shields.io/badge/SAS-007ACC?style=flat-square&logo=SAS&logoColor=white" />
+  <img src="https://img.shields.io/badge/SAS-0078D4?style=for-the-badge&logo=SAS%20studio%20code&logoColor=white" />
   <img src="https://img.shields.io/badge/Apache Spark-0078D4?style=for-the-badge&logo=Apache Spark%20studio%20code&logoColor=white" />
   <img src="https://img.shields.io/badge/BigML-5C2D91?style=for-the-badge&logo=BigML%20studio&logoColor=white" />
   <img src="https://img.shields.io/badge/MatLab-66595C?style=for-the-badge&logo=MatLab&logoColor=white" />
   <img src="https://img.shields.io/badge/Excel-2C2255?style=for-the-badge&logo=Excel&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-%23575757.svg?&style=for-the-badge&logo=TensorFlow-text&logoColor=important" />
   <img src="https://img.shields.io/badge/Jira-5C2D91?style=for-the-badge&logo=BigML%20studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google Docs-0078D4?style=for-the-badge&logo=Google Docs%20studio%20code&logoColor=white" />
 </p>
 
 <h1>Hobbies</h1>
