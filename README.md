@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.kaggle.com/asifahmed3614">
-    <img height="50" src="https://tse4.mm.bing.net/th/id/OIP.V1ofn6mJ1viNqD250of3sQHaDt?pid=ImgDet&rs=1" alt="Kaggle Badge"/>
+    <img height="50" src="https://img.shields.io/badge/Kaggle-007ACC?style=for-the-badge&logo=Selinum&logoColor=white" alt="Kaggle Badge"/>
   </a>
   <a href="https://twitter.com/Asif3615">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
