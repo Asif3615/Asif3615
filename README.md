@@ -22,7 +22,7 @@
 
 <h2>About me </h2>
 
-I am a Data and Business Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am  Business Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
 - :telescope: I’m working as a Business Analyst at Ellocent Labs IT Solutions Pvt. Ltd. and contributing to the Data and Business Analyst community.
 
