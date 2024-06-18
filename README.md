@@ -26,7 +26,7 @@ I am a Data and Business Analyst <img src="https://media.giphy.com/media/WUlplcM
 
 - :telescope: I’m working as a Business Analyst at Ellocent Labs IT Solutions Pvt. Ltd. and contributing to the Data and Business Analyst community.
 
-- :seedling: Exploring Machine Learning ,Deep Learning, Agile Methodology, Scrum, Data Visualization, and Artificial Intelligence.
+- :seedling: Exploring Machine Learning, Deep Learning, Agile Methodology, Scrum, Data Visualization, and Artificial Intelligence.
 
 - :zap: In my free time, I work through challenges on Google Colab and Visual Studio from various sources, which helps me develop new skills.
 
@@ -55,22 +55,22 @@ I am a Data and Business Analyst <img src="https://media.giphy.com/media/WUlplcM
 
 | Ellocent Labs  | Period of work (09/2023 - Present) |
 |:---------:|:----------------------------------:|
-| Business Analyst |  Collecting, understanding, and transmitting the business requirements for the project and analyze and document business processes. |
+| Business Analyst |  Collecting, understanding, and transmitting the project's business requirements and analyzing and documenting business processes. |
 
 
 | ITExpertUS| Period of work (02/2023 - 04/2023) |
 |:---------:|:----------------------------------:|
-| Technical Analyst |  Interpreting data, analyzing results using statistical techniques and screening resumes and interviewing potential candidates on a regular basis. |
+| Technical Analyst |  Interpreting data, analyzing results using statistical techniques screening resumes, and interviewing potential candidates regularly. |
 
 
 | Teachnook | Period of work (08/2022 - 10/2022) |
 |:---------:|:----------------------------------:|
-| Data Analyst Intern |  Created diverse dashboards using Power BI, Tableau, and SQL also managed data manipulation, cleaning, and visualization with libraries like pandas, matplotlib, seaborn, Kaggle. |
+| Data Analyst Intern |  Created diverse dashboards using Power BI, Tableau, and SQL also managed data manipulation, cleaning, and visualization with libraries like pandas, matplotlib, seaborn and Kaggle. |
 
 
-| Pantech ProLabs | Period of work (04/2022 - 07/2022) |
+| Freelancer | Period of work (12/2021 – 04/2022) |
 |:---------:|:----------------------------------:|
-| AI/ML Intern |  Worked with Machine Learning algorithms: Regression, Classification, NLP, Neural Network and built predictive models for accuracy prediction |
+| Data Scientist |  Worked with Machine Learning Models: CNN, RNN, LLM for NLP task, Regression, Classification, NLP, Neural Network and built predictive models for accuracy prediction |
 
 <h1>Frameworks and Libraries</h1>
 <p>
