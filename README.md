@@ -24,7 +24,7 @@
 
 I am  Business Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- :telescope: I’m working as a Business Analyst at Ellocent Labs IT Solutions Pvt. Ltd. and contributing to the Data and Business Analyst community.
+- :telescope: I’m working as a Business Analyst at Beyond Root Technologies Services Pvt. Ltd. and contributing to the Business Analyst community.
 
 - :seedling: Exploring Machine Learning, Deep Learning, Agile Methodology, Scrum, Data Visualization, and Artificial Intelligence.
 
@@ -53,9 +53,14 @@ I am  Business Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 
 <h1>My work experience</h1>
 
-| Ellocent Labs  | Period of work (09/2023 - Present) |
+| Beyond Root  | Period of work (08/2024 - Present) |
 |:---------:|:----------------------------------:|
-| Business Analyst |  Collecting, understanding, and transmitting the project's business requirements and analyzing and documenting business processes. |
+| Business Analyst |  Gathering and analyzing project requirements and business processes. |
+
+
+| Ellocent Labs  | Period of work (09/2023 - 08/2024) |
+|:---------:|:----------------------------------:|
+| Business Analyst |  Collecting, understanding, and transmitting the project's requirements and analyzing and documenting business processes. |
 
 
 | ITExpertUS| Period of work (02/2023 - 04/2023) |
