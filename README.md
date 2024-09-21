@@ -58,24 +58,19 @@ I am  Business Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 | Business Analyst |  Understanding and documenting the project's requirements and analyzing business processes to ensure alignment and effective project execution. |
 
 
-| Ellocent Labs  | Period of work (09/2023 - 08/2024) |
+| Ellocent Labs  | Period of work (08/2023 - 08/2024) |
 |:---------:|:----------------------------------:|
 | Business Analyst |  Collecting, understanding, and transmitting the project's requirements and analyzing and documenting business processes. |
 
 
-| ITExpertUS| Period of work (02/2023 - 04/2023) |
+| ITExpertUS| Period of work (02/2022 - 04/2023) |
 |:---------:|:----------------------------------:|
 | Technical Analyst |  Interpreting data, analyzing results using statistical techniques screening resumes, and interviewing potential candidates regularly. |
 
 
-| Teachnook | Period of work (08/2022 - 10/2022) |
+| Freelancer | Period of work (12/2021 – 04/2023) |
 |:---------:|:----------------------------------:|
-| Data Analyst Intern |  Created diverse dashboards using Power BI, Tableau, and SQL also managed data manipulation, cleaning, and visualization with libraries like pandas, matplotlib, seaborn and Kaggle. |
-
-
-| Freelancer | Period of work (12/2021 – 04/2022) |
-|:---------:|:----------------------------------:|
-| Data Scientist |  Worked with Machine Learning Models: CNN, RNN, LLM for NLP task, Regression, Classification, NLP, Neural Network and built predictive models for accuracy prediction |
+| Data Analyst |  Acquiring, cleaning, and analyzing data to build predictive models and created diverse dashboards using Power BI, Tableau, and SQL also managed data manipulation, cleaning, and visualization insights for effective decision-making. |
 
 <h1>Frameworks and Libraries</h1>
 <p>
