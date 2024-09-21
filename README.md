@@ -55,7 +55,7 @@ I am  Business Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 
 | Beyond Root  | Period of work (08/2024 - Present) |
 |:---------:|:----------------------------------:|
-| Business Analyst |  Gathering and analyzing project requirements and business processes. |
+| Business Analyst |  Understanding and documenting the project's requirements and analyzing business processes to ensure alignment and effective project execution. |
 
 
 | Ellocent Labs  | Period of work (09/2023 - 08/2024) |
